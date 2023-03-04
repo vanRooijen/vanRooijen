@@ -1,3 +1,2 @@
-<span style="color:#fff; font-family: 'CaskaydiaCove Nerd Font'; font-size: 4em;">van Rooijen </span>
-this is my readme
-
+## Hi, I'm Raymond
+I am studying Computer Science with a focal area of Data Science at Stellenbosch University.
