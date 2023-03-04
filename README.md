@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @vanRooijen
-- 👀 I’m interested in computers & more
-- 🌱 I’m currently studying Computer Science
-- 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me vanrooijenr01@gmail.com
+<span style="color:#fff; font-family: 'CaskaydiaCove Nerd Font'; font-size: 4em;">van Rooijen </span>
+this is my readme
 
-<!---
-vanRooijen/vanRooijen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
