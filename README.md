@@ -4,5 +4,4 @@
   <img src="https://github.com/vanRooijen/vanRooijen/blob/main/quality_stellenbosch.png" width="100" title="Stellenbosch University Logo">
 </p>
 
-  <p align="center">I am currently using my gitlab account more, because of restrictions on the free version of github, regarding private repositories.
-  [Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.</p>
+I am currently using my gitlab account more, because of restrictions on the free version of github, regarding private repositories.  [Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.
