@@ -3,4 +3,6 @@
 <p align="center">
   <img src="https://github.com/vanRooijen/vanRooijen/blob/main/quality_stellenbosch.png" width="100" title="Stellenbosch University Logo">
 </p>
-<h6 align="center"><h6>
+
+  I am currently using my gitlab account more, because of restrictions on the free version of github.
+  [Here](https://gitlab.com/vanRooijen) is a link to my gitlab account
