@@ -4,6 +4,6 @@
   <img src="https://github.com/vanRooijen/vanRooijen/blob/main/quality_stellenbosch.png" width="100" title="Stellenbosch University Logo">
 </p>
 
-[Here](raynotes.org) is a link to my personal website, raynotes.org.
+[Here](https://raynotes.org/) is a link to my personal website, raynotes.org.
 
 I am currently using my gitlab account more, because of restrictions on the free version of github, regarding private repositories.  [Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.
