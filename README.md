@@ -6,4 +6,4 @@
 
 [Here](https://raynotes.org/) is a link to my personal website, raynotes.org.
 
-I am currently using my gitlab account more, because of restrictions on the free version of github, regarding private repositories.  [Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.
+[Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.
