@@ -3,7 +3,3 @@
 <p align="center">
   <img src="https://github.com/vanRooijen/vanRooijen/blob/main/quality_stellenbosch.png" width="100" title="Stellenbosch University Logo">
 </p>
-
-[Here](https://raynotes.org/) is a link to my personal website, raynotes.org.
-
-[Here](https://gitlab.com/vanRooijen) is a link to my gitlab account.
